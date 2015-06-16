@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "GameModel.js",
+  "sourceRoot": "",
+  "sources": [
+    "GameModel.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;AAAA;AAAA"
+}
